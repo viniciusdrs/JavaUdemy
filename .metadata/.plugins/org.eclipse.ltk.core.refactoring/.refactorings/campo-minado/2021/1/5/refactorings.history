@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.cod3r.cm.excecao.modelo&apos; to &apos;br.com.cod3r.cm.excecao&apos;&#x0D;&#x0A;- Original project: &apos;campo-minado&apos;&#x0D;&#x0A;- Original element: &apos;campo-minado/src/br.com.cod3r.cm.excecao.modelo&apos;&#x0D;&#x0A;- Renamed element: &apos;campo-minado/src/br.com.cod3r.cm.excecao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.cod3r.cm.excecao.modelo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.cod3r.cm.excecao.modelo" name="br.com.cod3r.cm.excecao" qualified="false" references="true" stamp="1611856922360" textual="false" version="1.0"/>
+</session>

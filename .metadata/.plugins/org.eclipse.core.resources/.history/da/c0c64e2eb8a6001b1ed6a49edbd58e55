@@ -1,0 +1,16 @@
+package fundamentos;
+
+public class ExercicioUni {
+
+	public static void main(String[] args) {
+		
+		int i;
+		
+		for(i = 0; i < 12; i+=3) {
+			System.out.println(i);
+		}
+		System.out.println("Valor no final do i: " + i);
+
+	}
+
+}

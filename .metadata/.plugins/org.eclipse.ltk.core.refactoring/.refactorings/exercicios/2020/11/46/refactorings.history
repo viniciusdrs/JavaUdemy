@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;streams.aluno&apos; to &apos;Aluno&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Original element: &apos;streams.aluno&apos;&#x0D;&#x0A;- Renamed element: &apos;streams.Aluno&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;aluno&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;streams{aluno.java[aluno" matchStrategy="1" name="Aluno" qualified="false" references="true" similarDeclarations="false" stamp="1605031560111" textual="false" version="1.0"/>
+</session>
